@@ -28,6 +28,8 @@
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
 </p>
+<br>
+<br>
 
 
 
@@ -38,14 +40,15 @@
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Mehedi-9T9)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mehedi-9T9)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mehedi-9T9)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mehedi-9T9&show_icons=true)
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Mehedi-9T9) -->
+## My Stats ##
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mehedi-9T9&show_icons=true" alt="GitHub stats" width="30%"/>
-  <img src="https://streak-stats.demolab.com/?user=Mehedi-9T9" alt="GitHub streak stats" width="30%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehedi-9T9" alt="GitHub streak stats" width="30%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mehedi-9T9&show_icons=true" alt="GitHub stats" height="300px" width="30%"/>
+  <img src="https://streak-stats.demolab.com/?user=Mehedi-9T9" alt="GitHub streak stats" height="300px" width="30%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehedi-9T9" alt="GitHub streak stats" height="300px" width="30%"/>
 </p>
