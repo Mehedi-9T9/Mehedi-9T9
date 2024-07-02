@@ -1,6 +1,8 @@
-### Hi there 👋, my name is Mehedi Hasan
+<p align="center"><a href=""><img width="80%" alt="Hello, I'm Anurag. I'm Junior Web Developer" src="./asset/mehedi-img.png" /></a></p>
+
+<!-- ### Hi there 👋, my name is Mehedi Hasan
 #### Junior Web Developer
-![Junior Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Junior Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) -->
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
