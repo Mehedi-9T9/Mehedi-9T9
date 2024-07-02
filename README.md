@@ -1,8 +1,9 @@
 <p align="center"><a href=""><img width="80%" alt="Hello, I'm Anurag. I'm Junior Web Developer" src="./asset/mehedi-img.png" /></a></p>
+<br>
+<br>
 
-<!-- ### Hi there 👋, my name is Mehedi Hasan
-#### Junior Web Developer
-![Junior Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) -->
+
+## About Me ##
 
 👋 Hi there! I'm a Junior Web Developer with a passion for building user-friendly and responsive websites. My journey in web development began with a curiosity for how web applications are built, and now I enjoy creating seamless experiences for users.
 <br>
@@ -31,24 +32,10 @@
 <br>
 <br>
 
-
-
-
-<!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mehedi-9T9)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/mehedi.hasan9t9/) -->
-
-<!-- <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a>  -->
-
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Mehedi-9T9)](https://github.com/ryo-ma/github-profile-trophy) -->
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mehedi-9T9)](https://github.com/anuraghazra/github-readme-stats) -->
-
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mehedi-9T9&show_icons=true)
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Mehedi-9T9) -->
 ## My Stats ##
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mehedi-9T9&show_icons=true" alt="GitHub stats" height="400" width="50%"/>
-  <img src="https://streak-stats.demolab.com/?user=Mehedi-9T9" alt="GitHub streak stats" height="400" width="50%"/>
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehedi-9T9" alt="GitHub streak stats" height="300" width="30%"/> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Mehedi-9T9&show_icons=true" alt="GitHub stats" width="45%"/>
+  <img src="https://streak-stats.demolab.com/?user=Mehedi-9T9" alt="GitHub streak stats" width="45%"/>
+
 </p>
