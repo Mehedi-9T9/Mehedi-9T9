@@ -40,4 +40,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mehedi-9T9)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mehedi-9T9&show_icons=true) ![GitHub streak stats](https://streak-stats.demolab.com/?user=Mehedi-9T9)
+<p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mehedi-9T9&show_icons=true)
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Mehedi-9T9)
+</p>
