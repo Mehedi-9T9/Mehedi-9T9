@@ -44,7 +44,7 @@
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Mehedi-9T9) -->
 
-<div style="display: flex;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mehedi-9T9&show_icons=true" alt="GitHub stats" style="width: 50%;"/>
-  <img src="https://streak-stats.demolab.com/?user=Mehedi-9T9" alt="GitHub streak stats" style="width: 50%;"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mehedi-9T9&show_icons=true" alt="GitHub stats" width="40%"/>
+  <img src="https://streak-stats.demolab.com/?user=Mehedi-9T9" alt="GitHub streak stats" width="40%"/>
+</p>
