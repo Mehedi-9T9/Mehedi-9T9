@@ -4,7 +4,15 @@
 #### Junior Web Developer
 ![Junior Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) -->
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+👋 Hi there! I'm a Junior Web Developer with a passion for building user-friendly and responsive websites. My journey in web development began with a curiosity for how web applications are built, and now I enjoy creating seamless experiences for users.
+<br>
+
+- 🌱 I’m currently learning Programming Hero
+- 🔭 I’m currently working in my projects.
+- 🦯 I’m exploring  - Next js.
+- 🔍 I will next exploring  - My SQL Database.
+
+
 
 ## Skills: ##
 <p align="center">
@@ -21,8 +29,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
       <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
 </p>
 
-- 🔭 I’m currently working on this page.
-- 🌱 I’m currently learning Programming Hero
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mehedi-9T9)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/mehedi.hasan9t9/)
@@ -33,6 +40,4 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mehedi-9T9)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mehedi-9T9&show_icons=true)
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Mehedi-9T9)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mehedi-9T9&show_icons=true) ![GitHub streak stats](https://streak-stats.demolab.com/?user=Mehedi-9T9)
