@@ -1,12 +1,8 @@
 <!-- <p align="center"><a href=""><img width="80%" alt="Hello, I'm Mehedi. I'm Junior Web Developer" src="./asset/mehedi-git-Hub-bannar.png" /></a></p> -->
 <img src="./asset/mehedi-git-Hub-bannar.png" />
-<br>
-<br>
 
-
-## About Me ##
-
-👋 Hi there! I'm a Junior Web Developer with a passion for building user-friendly and responsive websites. My journey in web development began with a curiosity for how web applications are built, and now I enjoy creating seamless experiences for users.
+<h2 style="color: purple">About Me</h2>
+<p>👋 Hi there! I'm a Junior Web Developer with a passion for building user-friendly and responsive websites. My journey in web development began with a curiosity for how web applications are built, and now I enjoy creating seamless experiences for users.</p>
 <br>
 
 - 🌱 I’m currently learning Programming Hero
