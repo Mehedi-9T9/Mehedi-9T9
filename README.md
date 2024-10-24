@@ -37,7 +37,7 @@
 
 <h2> My Stats </h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mehedi-9T9&show_icons=true" alt="GitHub stats" width="45%" height="90%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mehedi-9T9&show_icons=true" alt="GitHub stats" width="45%" height="80%"/>
   <img src="https://streak-stats.demolab.com/?user=Mehedi-9T9" alt="GitHub streak stats" width="45%" height="100%"/>
 
 </p>
