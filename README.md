@@ -10,7 +10,6 @@
 * 🔍 I will next explore - My SQL Database.
 <br>
 <div align="center">
-<br>
 <a href="https://www.facebook.com/mehedi.hasan9t9" target="_blank">
 <img src="https://img.shields.io/badge/Facebook-30363D?style=for-the-badge&logo=Facebook&logoColor=blue" target="_blank" />
  </a>
@@ -24,6 +23,7 @@
 
 
 <h2> Skills </h2>
+<br>
 <div align="center">
       <img src="https://skillicons.dev/icons?i=html,css,tailwind,js" alt="skills-icons" />
       <br>
