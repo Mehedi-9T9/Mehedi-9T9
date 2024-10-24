@@ -10,6 +10,7 @@
 * 🔍 I will next explore - My SQL Database.
 <br>
 <div align="center">
+<br>
 <a href="https://www.facebook.com/mehedi.hasan9t9" target="_blank">
 <img src="https://img.shields.io/badge/Facebook-30363D?style=for-the-badge&logo=Facebook&logoColor=blue" target="_blank" />
  </a>
@@ -37,6 +38,6 @@
 <h2> My Stats </h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mehedi-9T9&show_icons=true" alt="GitHub stats" width="45%"/>
-  <img src="https://streak-stats.demolab.com/?user=Mehedi-9T9" alt="GitHub streak stats" width="45%"/>
+  <img src="https://streak-stats.demolab.com/?user=Mehedi-9T9" alt="GitHub streak stats" width="45%" height="80"/>
 
 </p>
