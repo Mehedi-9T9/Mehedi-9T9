@@ -11,13 +11,13 @@
 
 <div align="center">
 <a href="https://www.facebook.com/mehedi.hasan9t9">
-<img src="https://img.shields.io/badge/Facebook-30363D?style=for-the-badge&logo=Facebook&logoColor=blue" target="_blank" />
+<img src="https://img.shields.io/badge/Facebook-30363D?style=for-the-badge&logo=Facebook&logoColor=blue" target="blank" />
  </a>
 <a href="https://www.facebook.com/mehedi.hasan9t9">
-<img src="https://img.shields.io/badge/Linkedin-30363D?style=for-the-badge&logo=Linkedin&logoColor=blue" target="_blank" />
+<img src="https://img.shields.io/badge/Linkedin-30363D?style=for-the-badge&logo=Linkedin&logoColor=blue" target="blank" />
  </a>
 <a href="https://www.facebook.com/mehedi.hasan9t9">
-<img src="https://img.shields.io/badge/Portfolio-30363D?style=for-the-badge&logo=GitHub-Sponsor&logoColor=purple" target="_blank" />
+<img src="https://img.shields.io/badge/Portfolio-30363D?style=for-the-badge&logo=GitHub-Sponsor&logoColor=purple" target="blank" />
  </a>
 </div>
 
