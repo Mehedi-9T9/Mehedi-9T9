@@ -16,8 +16,8 @@
 <a href="https://www.facebook.com/mehedi.hasan9t9" target="_blank">
 <img src="https://img.shields.io/badge/Linkedin-30363D?style=for-the-badge&logo=Linkedin&logoColor=blue" target="_blank" />
  </a>
-<a href="https://www.facebook.com/mehedi.hasan9t9" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-30363D?style=for-the-badge&logo=GitHub-Sponsor&logoColor=purple" target="_blank" />
+<a href="https://mehedi-hasan-444.netlify.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" target="_blank" />
  </a>
 </div>
 
