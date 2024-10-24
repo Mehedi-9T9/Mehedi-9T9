@@ -9,8 +9,20 @@
 * 🦯 I’m exploring - Next js.
 * 🔍 I will next explore - My SQL Database.
 
+<div align="center">
+<a href="https://www.facebook.com/mehedi.hasan9t9">
+<img src="https://img.shields.io/badge/Facebook-30363D?style=for-the-badge&logo=Facebook&logoColor=blue" target="_blank" />
+ </a>
+<a href="https://www.facebook.com/mehedi.hasan9t9">
+<img src="https://img.shields.io/badge/Linkedin-30363D?style=for-the-badge&logo=Linkedin&logoColor=blue" target="_blank" />
+ </a>
+<a href="https://www.facebook.com/mehedi.hasan9t9">
+<img src="https://img.shields.io/badge/Portfolio-30363D?style=for-the-badge&logo=GitHub-Sponsor&logoColor=purple" target="_blank" />
+ </a>
+</div>
 
-<h2> Skills: </h2>
+
+<h2> Skills </h2>
 <p align="center">
       <img src="./asset/react.svg" alt="react" width="65" height="65"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="python" width="65" height="65"/>
