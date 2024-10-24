@@ -26,7 +26,11 @@
 <div align="center">
       <img src="https://skillicons.dev/icons?i=html,css,tailwind,js" alt="skills-icons" />
       <br>
-      <img src="https://skillicons.dev/icons?i=typescript,react,redux,nodejs,expressjs" alt="skills-icons" />
+      <br>
+      <img src="https://skillicons.dev/icons?i=typescript,react,redux,nodejs,nextjs" alt="skills-icons" />
+      <br>
+      <br>
+      <img src="https://skillicons.dev/icons?i=expressjs,mongodb,firebase,github,npm,docker" alt="skills-icons" />
       
 </div>
 
