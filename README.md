@@ -25,6 +25,7 @@
 <h2> Skills </h2>
 <div align="center">
       <img src="https://skillicons.dev/icons?i=html,css,tailwind,js" alt="skills-icons" />
+      <br>
       <img src="https://skillicons.dev/icons?i=typescript,react,redux,nodejs,expressjs" alt="skills-icons" />
       
 </div>
