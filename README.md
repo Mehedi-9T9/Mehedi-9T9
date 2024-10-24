@@ -1,4 +1,5 @@
-<p align="center"><a href=""><img width="80%" alt="Hello, I'm Mehedi. I'm Junior Web Developer" src="./asset/mehedi-git-Hub-bannar.png" /></a></p>
+<!-- <p align="center"><a href=""><img width="80%" alt="Hello, I'm Mehedi. I'm Junior Web Developer" src="./asset/mehedi-git-Hub-bannar.png" /></a></p> -->
+<img src="./asset/mehedi-git-Hub-bannar.png" />
 <br>
 <br>
 
